@@ -8,14 +8,14 @@
   },
   "dependencies": {
     "react": "16.5.0",
-    "react-native": "0.57.1",
+    "react-native": "0.57.8",
     "react-native-refresh-list-view": "^1.0.10",
     "react-navigation": "^2.17.0"
   },
   "devDependencies": {
     "@babel/runtime": "^7.0.0",
     "babel-jest": "23.6.0",
-    "jest": "23.6.0",
+    "jest": "29.3.1",
     "metro-react-native-babel-preset": "0.47.0",
     "react-test-renderer": "16.5.0",
     "schedule": "0.4.0"
